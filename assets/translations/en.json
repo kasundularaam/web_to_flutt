@@ -1,0 +1,29 @@
+{
+    "app_name":"Oreema",
+    "address":"Address",
+    "age":"Age",
+    "login":"Login",
+    "register":"Register",
+    "name":"Name",
+    "email":"Email",
+    "phone":"Phone",
+
+    "password":"Password",
+    "confirm_password":"Confirm Password",
+    "register_succeed":"Successfully registered!",
+    "login_succeed":"Successfully logged in!",
+    "has_account":"Already have an account?",
+    "no_account":"Do you haven't an account?",
+
+    "home":"Home",
+    "profile":"Profile",
+    "settings":"Settings",
+    "theme":"Theme",
+    "light":"Light",
+    "dark":"Dark",
+    "language":"Language",
+    "english":"English",
+    "sinhala":"Sinhala"
+
+
+}
